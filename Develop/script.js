@@ -9,8 +9,10 @@ $('#currentDay').html(todaysdate);
         var hour = $(this).parent().attr('id');
 
         //save in local
-        JSON.stringify.localStorage.setItem(notes, hour);
+        localStorage.setItem(notes, hour);
         // console.log('this is working');
+
+        alert('You have saved this item');
     })
 
     var findHour = function() {
