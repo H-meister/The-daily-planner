@@ -6,4 +6,6 @@
 
 ## work in progress build.
 
-![img of the website](/Module_5/Develop/img/WorkDayScheduler.PNG?raw=true "My Website")
+![img of the website](/Module_5/Develop/assets/img/WorkDayScheduler.PNG?raw=true "My Website")
+
+Link to the site: https://h-meister.github.io/The-daily-planner/
