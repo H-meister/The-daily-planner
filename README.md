@@ -5,3 +5,5 @@
 ## has an entry text box as well so you can plan and type out your events
 
 ## work in progress build.
+
+![img of the website](/Module_5/Develop/img/WorkDayScheduler.PNG?raw=true "My Website")
